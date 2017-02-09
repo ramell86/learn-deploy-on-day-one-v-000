@@ -146,6 +146,14 @@ a:visited {
   background-image: url("http://i.imgur.com/0SW3Es4.jpg");
 }
 
+#andrew-ramell-cover {
+  background-image: url("http://i.imgur.com/Vp2ixdI.jpg");
+}
+
+#andrew-ramell-card {
+  background-image: url("http://i.imgur.com/kbdmQfM.jpg")
+}
+
 #parker-thompson-card {
   background-image: url("http://i.imgur.com/9Sj5oQX.jpg");
 }
@@ -197,7 +205,7 @@ a:visited {
 #tom-su-cover {
   background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
 }
- 
+
 #tom-su-card {
    background-image: url("http://imgur.com/ftlyRw2.png");
 }
@@ -4626,7 +4634,7 @@ a:visited {
 #rachel-lim-cover {
     background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
   }
- 
+
 #rachel-lim-card {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
